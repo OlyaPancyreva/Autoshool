@@ -1,0 +1,1 @@
+web: gunicorn Autoschool.wsgi --log-file -
